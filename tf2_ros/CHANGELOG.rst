@@ -2,8 +2,8 @@
 Changelog for package tf2_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.7.666 (2023-08-09)
+--------------------
 * + removed warning, + github workflow, + tied version checks
 * Contributors: Tomas Baca
 

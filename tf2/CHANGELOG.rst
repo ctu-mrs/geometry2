@@ -2,8 +2,8 @@
 Changelog for package tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.7.666 (2023-08-09)
+--------------------
 * + removed warning, + github workflow, + tied version checks
 * fix extra comma that gives annoying build warnings with -Wall and -Wpedantic with g++-9 and assuming most other compilers (`#550 <https://github.com/ctu-mrs/geometry2/issues/550>`_)
 * Add parent frame to warning logs (`#533 <https://github.com/ctu-mrs/geometry2/issues/533>`_)
