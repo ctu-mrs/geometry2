@@ -24,7 +24,4 @@
   <depend>tf2_sensor_msgs</depend>
   <depend>tf2_tools</depend>
 
-  <export>
-    <metapackage/>
-  </export>
 </package>
