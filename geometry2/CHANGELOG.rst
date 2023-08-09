@@ -2,6 +2,12 @@
 Changelog for package geometry2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* converted to normal package
+* + removed warning, + github workflow, + tied version checks
+* Contributors: Tomas Baca
+
 0.7.6 (2022-10-11)
 ------------------
 
