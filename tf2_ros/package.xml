@@ -23,7 +23,7 @@
   <depend>rosgraph</depend>
   <depend>rospy</depend>
   <depend>std_msgs</depend>
-  <depend version_gte="0.7.665" version_lte="0.7.667">tf2</depend>
+  <depend version_gte="0.7.666-0focal">tf2</depend>
   <depend>tf2_msgs</depend>
   <depend>tf2_py</depend>
   <depend>xmlrpcpp</depend>
