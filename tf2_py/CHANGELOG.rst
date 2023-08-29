@@ -2,8 +2,8 @@
 Changelog for package tf2_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.7.666 (2023-08-29)
+--------------------
 * Fix(tf2_py) potential memory leak (`#544 <https://github.com/ctu-mrs/geometry2/issues/544>`_)
 * Contributors: Matthijs van der Burgh
 
